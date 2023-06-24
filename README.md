@@ -1,2 +1,2 @@
-# 100 coding challange
+# 100 days coding challange
 Daily one code 
