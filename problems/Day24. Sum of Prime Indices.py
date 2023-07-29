@@ -2,7 +2,6 @@
 Given an array as input, return the sum of all elements that are at prime indices. Prime indices are 2, 3, 5, and so on. The index is 0 based.
 
 Input Format
-
 Elements of the array
 
 Constraints
