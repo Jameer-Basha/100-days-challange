@@ -1,40 +1,29 @@
 # 100 days coding challange
+
 Daily one code 
+
 # Daily Questions
+
 1. Minimum cost to make array equal.py
 2. Sorting of Numbers.py
 3. Longest Arthematic Sequence.py
-
-Find index of first occurrence in a string.py
-
-Sorting of Numbers.py
-
-Longest Arthematic Sequence.py
-
-Find index of first occurrence in a string.py
-
-Find avg of first k digits and last I digits of a number.py
-
-Find Key.py
-
-Length of last word.py
-
-Maximum Streak.py
-
-Stock and Prices.py
-
-Covid and Theatre Tickets.py
-
-Chef and Fruits.py
-
-Longest Common Prefix.py
-
-Interchangable elements.py
-
-14. Championship.py
-16. Unique Sequence.py
-17. Customer's ld.py
-18. Smartly Affix Zeroes.py
-19. Pronic Number.py
-0. Generate Roll Number.py
-1. Persists Secret Message.py
+4. Find index of first occurrence in a string.py
+5. Sorting of Numbers.py
+6. Longest Arthematic Sequence.py
+7. Find index of first occurrence in a string.py
+8. Find avg of first k digits and last I digits of a number.py
+9. Find Key.py
+10. Length of last word.py
+11. Maximum Streak.py
+12. Stock and Prices.py
+13. Covid and Theatre Tickets.py
+14. Chef and Fruits.py
+15. Longest Common Prefix.py
+16. Interchangable elements.py
+17. Championship.py
+18. Unique Sequence.py
+19. Customer's Id.py
+20. Smartly Affix Zeroes.py
+21. Pronic Number.py
+22. Generate Roll Number.py
+23. Persists Secret Message.py
