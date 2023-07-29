@@ -32,3 +32,7 @@ Daily one code
 26. Diagonal Difference
 27. String Operations Accenture
 28. Next Greater Number
+29. Sasuke's Attack
+30. MBA challenge
+31. Minimum Prime Factor
+32. Longest Even Substring
