@@ -1,8 +1,10 @@
 # 100 days coding challange
 Daily one code 
 # Daily Questions
-1). Minimum cost to make array equal.py
-2). Sorting of Numbers.py
+Minimum cost to make array equal.py
+
+Sorting of Numbers.py
+
 Longest Arthematic Sequence.py
 
 Find index of first occurrence in a string.py
