@@ -2,8 +2,11 @@
 Daily one code 
 # Daily Questions
 Day 1. Minimum cost to make array equal.py
+
 Day 2. Sorting of Numbers.py
+
 Day 3 .Longest Arthematic Sequence.py
+
 Day 4. Find index of first occurrence in a string.py
 Day 5. Find avg of first k digits and last I digits of a number.py
 Day 6. Find Key.py
