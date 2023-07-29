@@ -25,3 +25,6 @@ Daily one code
 19. Generate Roll Number
 20. Persists Secret Message
 21. Balanced Substring
+22. String Operations
+23. Unfairness Accenture
+24. 
