@@ -4,23 +4,24 @@ Daily one code
 
 # Daily Questions
 
-1. Minimum cost to make array equal.py
-2. Sorting of Numbers.py
-3. Longest Arthematic Sequence.py
-4. Find index of first occurrence in a string.py
-5. Find avg of first k digits and last I digits of a number.py
-6. Find Key.py
-7. Length of last word.py
-8. Maximum Streak.py
-9. Stock and Prices.py
-10. Covid and Theatre Tickets.py
-11. Chef and Fruits.py
-12. Longest Common Prefix.py
-13. Interchangable elements.py
-14. Championship.py
-15. Unique Sequence.py
-16. Customer's Id.py
-17. Smartly Affix Zeroes.py
-18. Pronic Number.py
-19. Generate Roll Number.py
-20. Persists Secret Message.py
+1. Minimum cost to make array equal
+2. Sorting of Numbers
+3. Longest Arthematic Sequence
+4. Find index of first occurrence in a string
+5. Find avg of first k digits and last I digits of a number
+6. Find Key
+7. Length of last word
+8. Maximum Streak
+9. Stock and Prices
+10. Covid and Theatre Tickets
+11. Chef and Fruits
+12. Longest Common Prefix
+13. Interchangable elements
+14. Championship
+15. Unique Sequence
+16. Customer's Id
+17. Smartly Affix Zeroes
+18. Pronic Number
+19. Generate Roll Number
+20. Persists Secret Message
+21. Balanced Substring
