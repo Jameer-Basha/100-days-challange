@@ -27,4 +27,8 @@ Daily one code
 21. Balanced Substring
 22. String Operations
 23. Unfairness Accenture
-24. 
+24. Sum of Prime Indices
+25. Minimum Number of Integers
+26. Diagonal Difference
+27. String Operations Accenture
+28. Next Greater Number
