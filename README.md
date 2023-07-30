@@ -36,3 +36,8 @@ Daily one code
 30. MBA challenge
 31. Minimum Prime Factor
 32. Longest Even Substring
+33. Circular Primes
+34. Placement Session Begins
+35. Caesar Cipher
+36. Maximun Subarray
+37. Evalute Expression
