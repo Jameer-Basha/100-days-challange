@@ -41,3 +41,5 @@ Daily one code
 35. Caesar Cipher
 36. Maximun Subarray
 37. Evalute Expression
+38. Superior elements
+39. Maximum Difference between Smaller and Larger Element
