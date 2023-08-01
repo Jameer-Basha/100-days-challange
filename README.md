@@ -44,3 +44,5 @@ Daily one code
 38. Superior elements
 39. Maximum Difference between Smaller and Larger Element
 40. Alternate Even and Odd Series
+41. Same Sum of Digit Pairs
+42. Longest Continuous Sequence
