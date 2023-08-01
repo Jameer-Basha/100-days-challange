@@ -39,3 +39,41 @@ Sample Output 1
 7856523674582
 
 '''
+
+s=input()
+even=[]
+odd=[]
+count=0
+for i in s:
+    if(i.isdigit()):      
+        i=int(i)
+        if(i%2==0):
+            even.append(i)
+        else:
+            odd.append(i)
+    elif(not i.isalpha()):
+        count+=1
+            
+if(count%2==0):
+    start=0
+else:
+    start=1
+    
+odd_index=len(odd)
+even_index=len(even)
+max_index=max(odd_index,even_index)
+
+ans=""
+for i in range(max_index):
+    if(not start):
+        if(i<even_index):
+            ans+=str(even[i])
+        if(i<odd_index):
+            ans+=str(odd[i])
+    if(start):
+        if(i<odd_index):
+            ans+=str(odd[i])
+        if(i<even_index):
+            ans+=str(even[i])
+        
+print(ans)
