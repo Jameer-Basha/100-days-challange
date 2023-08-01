@@ -43,3 +43,4 @@ Daily one code
 37. Evalute Expression
 38. Superior elements
 39. Maximum Difference between Smaller and Larger Element
+40. Alternate Even and Odd Series
