@@ -46,3 +46,4 @@ Daily one code
 40. Alternate Even and Odd Series
 41. Same Sum of Digit Pairs
 42. Longest Continuous Sequence
+43. Factor Game
