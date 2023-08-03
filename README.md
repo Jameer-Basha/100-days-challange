@@ -47,3 +47,4 @@ Daily one code
 41. Same Sum of Digit Pairs
 42. Longest Continuous Sequence
 43. Factor Game
+44. Harshad Matrix
