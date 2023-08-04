@@ -48,3 +48,5 @@ Daily one code
 42. Longest Continuous Sequence
 43. Factor Game
 44. Harshad Matrix
+45. 4 digit OTP
+
