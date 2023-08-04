@@ -4,13 +4,13 @@ Daily one code
 
 # Daily Questions
 
-1. Minimum cost to make array equal
+1. Minimum Cost to Make Array Equal
 2. Sorting of Numbers
 3. Longest Arthematic Sequence
-4. Find index of first occurrence in a string
-5. Find avg of first k digits and last I digits of a number
+4. Find Index of First Occurrence in a String
+5. Find Avg of First k Digits and Last L digits of a number
 6. Find Key
-7. Length of last word
+7. Length of Last Word
 8. Maximum Streak
 9. Stock and Prices
 10. Covid and Theatre Tickets
