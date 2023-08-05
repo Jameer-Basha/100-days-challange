@@ -49,4 +49,5 @@ Daily one code
 43. Factor Game
 44. Harshad Matrix
 45. 4 digit OTP
+46. Kth Non Repeating Character
 
