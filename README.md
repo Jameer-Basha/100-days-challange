@@ -50,4 +50,5 @@ Daily one code
 44. Harshad Matrix
 45. 4 digit OTP
 46. Kth Non Repeating Character
+47. Summation Set
 
