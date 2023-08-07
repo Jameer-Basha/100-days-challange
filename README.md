@@ -51,4 +51,6 @@ Daily one code
 45. 4 digit OTP
 46. Kth Non Repeating Character
 47. Summation Set
+48. Matrix with All Digits
+
 
