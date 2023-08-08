@@ -52,5 +52,5 @@ Daily one code
 46. Kth Non Repeating Character
 47. Summation Set
 48. Matrix with All Digits
-49. Closest Fib or Prime
+49. Closest(Next) Fib or Prime
 
