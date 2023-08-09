@@ -53,4 +53,5 @@ Daily one code
 47. Summation Set
 48. Matrix with All Digits
 49. Closest(Next) Fib or Prime
+50. MCQ Result
 
