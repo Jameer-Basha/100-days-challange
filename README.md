@@ -54,4 +54,4 @@ Daily one code
 48. Matrix with All Digits
 49. Closest(Next) Fib or Prime
 50. MCQ Result
-
+51. Largest Number At Least Twice Others
