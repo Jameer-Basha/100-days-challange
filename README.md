@@ -56,4 +56,5 @@ Daily one code
 50. MCQ Result
 51. Largest Number At Least Twice Others
 52. Longest Common Substring
+53. Train Details
 
