@@ -58,4 +58,4 @@ Daily one code
 52. Longest Common Substring
 53. Train Details
 54. Marching People
-
+55. Close and Far
