@@ -27,11 +27,11 @@ Sample Output 0
 '''
 
 lst = list(map(int,input().split()))
+Sum=sum(lst)
+length = len(lst)
 res=[]
-for i in range(len(lst)):
-    sub1=lst[:i+1]
-    sub2 = lst[i+1:]
-    Sum =abs(sum(sub1)-sum(sub2))
-    res.append(Sum)
+for i in range(length):
+    Sum=Sum-2*lst[i]
+    res.append(abs(Sum))
 ans =" ".join(str(i) for i in res)
 print(ans)
