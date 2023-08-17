@@ -1,5 +1,4 @@
 '''
-
 Given an array [1,2,3,4,5]
 
 You have to return an array which has elements as absolute difference between prefix and suffix sum
