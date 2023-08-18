@@ -61,3 +61,5 @@ Daily one code
 55. Close and Far
 56. IP Address Validation
 57. Cummulative Sum
+58. Remainig String
+59. Swap String
