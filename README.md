@@ -15,8 +15,8 @@ Daily one code
 9. Stock and Prices
 10. Covid and Theatre Tickets
 11. Chef and Fruits
-12. Longest Common Prefix
-**Accenture**
+12. Longest Common Prefix  **Accenture**
+
 13. Interchangable elements
 14. Championship
 15. Unique Sequence
