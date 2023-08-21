@@ -15,8 +15,7 @@ Daily one code
 9. Stock and Prices
 10. Covid and Theatre Tickets
 11. Chef and Fruits
-12. Longest Common Prefix  **Accenture**
-
+12. Longest Common Prefix  
 13. Interchangable elements
 14. Championship
 15. Unique Sequence
@@ -63,8 +62,8 @@ Daily one code
 56. IP Address Validation
 57. Cummulative Sum
 58. Remainig String
-59. Swap String
-60. Robo Race
+59. Swap String **Accenture**
+60. Robo Race   **Accenture**
 61. Adam's Favorite
 62. Class Topper
 
