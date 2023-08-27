@@ -70,4 +70,5 @@ Daily one code
 64. Min Grade After K Swaps
 65. Two Sum with Largest Product
 66. Felix Function
-
+67. Pizza Party
+    
