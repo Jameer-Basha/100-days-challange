@@ -71,4 +71,5 @@ Daily one code
 65. Two Sum with Largest Product
 66. Felix Function
 67. Pizza Party
+68. Generate ATM Pin
     
