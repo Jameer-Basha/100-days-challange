@@ -74,3 +74,5 @@ Daily one code
 68. Generate ATM Pin
 69.  Biggest Number from Elements of List
 70.  Missing Number in List
+71.  Wave Array
+    
