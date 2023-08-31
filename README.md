@@ -75,4 +75,4 @@ Daily one code
 69.  Biggest Number from Elements of List
 70.  Missing Number in List
 71.  Wave Array
-    
+72.   Sub Array with Zero Sum
