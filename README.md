@@ -77,3 +77,5 @@ Daily one code
 71.  Wave Array
 72.  Sub Array with Zero Sum
 73.  Anagrams
+74.  Names Score
+75.  Largest Series Product
