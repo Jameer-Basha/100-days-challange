@@ -80,3 +80,4 @@ Daily one code
 74.  Names Score
 75.  Largest Series Product
 76.  Highly divisible triangular number
+77.  Arithmetic Number
