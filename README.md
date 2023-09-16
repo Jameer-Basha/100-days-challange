@@ -1,6 +1,6 @@
 # 100 days coding challange
 
-Daily one code 
+## Daily one code 
 
 # Daily Questions
 
