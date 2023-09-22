@@ -5,7 +5,6 @@
 
 # Daily Questions
 
-
 1. Minimum Cost to Make Array Equal
 2. Sorting of Numbers
 3. Longest Arthematic Sequence
