@@ -2,7 +2,6 @@
 
 ## Daily one code 
 
-
 # Daily Questions
 
 1. Minimum Cost to Make Array Equal
